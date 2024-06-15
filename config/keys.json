@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fbidev",
+  "private_key_id": "0e604b02e78b465c5784f5807ec169337ada86dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwHV59OxaiCKHF\nvp8odH+5ns1d6k8vY12qVXgrCpJmvAS5dZnvfnHHH0V5HfVp8M8buiregxOjQ900\nOGth14+y1NEz+EbhdI+lZQJ427PeQzxU50LWJvIulCJJXJE9lpdzekFq//WuqG0U\nO+RsZerf5XWjWWAmij2/DT1Xxp170sgvFNWtjRLkK0kVpmnL+5kUeZiocsl4ixAu\nqISG8V13Nu10sMcYYg+2CLKBvYdDvtv01gBCivkWL+oq0EGBh7U+1Kv7GrdlRl1V\nbxw3qp1WY7IsiV7A/0th+CT8AZCh0olqWBW1Ux7EoyXG72vQT7LgyKzyoo9SmvMn\nyS12w7X/AgMBAAECggEAH1OiDqGXlYv2hq+xLOeIHrL+MdHvcuz4aMeaQAG55/dS\n2dBu6Nhzkalg2Ln5APa6SGLVpE3pjNWR/+t3QmivIW7UpatopErxEEkG5wuhk4wf\nK7UVQPWdh6aG8Mi79xoV548cGtXb1E0WVg6PQ67fWCM/SSapQUG+2QCYZEgqlC8u\n5E0gGABfXNs3Ry4MCdVwWQCpkJFyc66L3Xy69JN8b9x1QdlG6AoZbIBdth+w3Goq\niLQjNVnydFzTRw45BBa+xJemfw0yVFUN9fk7+z9YSYlEox0bg9UWsovTW54F4pm+\n5bo9FO7R0ZcIdPzD3jFV1DNy9ZghK4s8/2W8xTADJQKBgQDnolrUHz2r9e/3q+rD\ny3xs58twdf5G/pW3adZhpdI1uXEYKi8/WPMO5btfOwGVZ8qxAwA/RCbFs4kDquBa\npHU1/Y/ZXiXaAZxXWl1VM7sgdBuag4Xj/596VNeDD+3M6RUVFFlHC8AoJsghxD0i\nyFF2OhLCVd9st6kHEQtcu4AhXQKBgQDCo/Aj2tS2wvUkO30lKiI2H64Ad1f+eKmr\n0jyDJVHy3V1dxwIRc+QEuGoAIrMjm4WwA8tpoCsK9gJW1t3ADZ7NqscqPZGKtXfW\ni9kh3WCahY3Hbnk6D+xfJCbyucTqrRkrv1LznhSC8Ze6liG5nFRGsnmh5sbfolNb\nuybTLoPzCwKBgDlcHgvrVJVRyMPXQcKMkFpTqDBIN9iS0LZjsh/qNTzymAv43kxc\nlYv53cV+Ui0ST8I30QbZtJQ+mk5bMUWg9hmRmd6lDtCGl5WWHgisT8mAlxlTOoO0\nWGStv9SHzEZy7bKToGwUf9gxilu6Qb1sR6f0R5LyOuqsLGJAmUS0dc1NAoGBAL2I\n+m1PyNd3nVN9Am5QSyQ9USlvDablRQPmI7rpepVu7l5FTkREgAQAuGgNYjgIV/SA\nnXHr4D46NSju7tz35m4MIQmHDtTtxRaM9BHACzQtXVSYxT+/BcPX5n1yXMjRarNp\nCZPlmb+xFrlBPPILwx1c6oi3u21GGro20qXOo/rlAoGASsAS+C1nhXXysoRKdJBq\nTWmdNmxczSkSWpurtyo1qN6gRxJxM304me5S81AnXQEl4D283est8sRTViS4jK7R\ntE0/hgp7I9emcAOk3dppHGRvt1nLiIkYIswq4g9ZnD7JJB93mkAtfFzYSzydBUCB\nnB0BI7NYgtc4ljaiNaAVANQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fb-dev@fbidev.iam.gserviceaccount.com",
+  "client_id": "106139324517371119704",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fb-dev%40fbidev.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

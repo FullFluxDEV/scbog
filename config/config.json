@@ -1,0 +1,30 @@
+{
+  "SCOP": ["https://www.googleapis.com/auth/spreadsheets"],
+  "token": "MTI0OTE0MDIzNjM5NTc0NTQ4Mg.G5XTZN.yvudDQJwsx-KApOoN8atKW30pSlgp8o4jtHaxk",
+  "prefix": "!",
+  "resultkanalId": "1249850507435053176",
+  "livekanalId": "1249850534412947456",
+  "botkullanım": "1248011248826581147",
+  "YetkiliroleId": "1248207827462258772",
+  "logokanalId": "1248011416892346381",
+  "SERVİCES_FİLES": "../config/keys.json",
+  "SAMPLE_ID": "1Q7dL2eHYXuNmFHFC4M0J76AXkvBO3XzJrPr2TQYmx74",
+  "mvp_tablo": [
+    "MVP!B3:E22"
+  ],  
+  "live_e_tablo": [
+    "Scrim & Tournuments!B3:M22"
+  ],
+  "result_e_tablo": [
+    "Scrim & Tournuments!B3:M22"
+  ],
+  "slot_e_tablo": [
+    "Scrim & Tournuments!B3:M22"
+  ],
+  "yarim_e_tablo": [
+    "Scrim & Tournuments!B3:M22"
+  ],
+
+
+  "puansistemi": [15, 12, 10, 8, 6, 4 ,2]
+}
